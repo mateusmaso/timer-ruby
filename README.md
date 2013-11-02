@@ -1,4 +1,4 @@
-timer.rb
+timer-ruby
 ========
 
 ```ruby
